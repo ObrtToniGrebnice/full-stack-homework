@@ -4,7 +4,9 @@ A sophisticated real-time collaboration platform built with Next.js and native B
 
 ## 🎯 Demo
 
-Watch the application in action: [demo.mp4](./demo.mp4)
+Watch the application in action:
+
+https://github.com/user-attachments/assets/3495f9f0-2255-4c2d-9441-91c71d6c9a46
 
 ## ✨ Features
 
@@ -128,4 +130,5 @@ pnpm start
 
 - **Input Sanitization**: XSS protection for user inputs
 - **Type Safety**: Full TypeScript coverage
+
 - **API Validation**: Robust data validation and error handling
